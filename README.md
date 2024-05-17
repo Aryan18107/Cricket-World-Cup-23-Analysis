@@ -27,7 +27,7 @@ The sales data is stored in CSV format, split across two files. The following st
 
  ## Dashboard
  ![Cricket World Cup23 Analysis](https://github.com/Aryan18107/Cricket-World-Cup-23-Analysis/assets/156915129/e1c9661a-5afc-4576-b2e9-84225f674766)
-![images (7)](https://github.com/Aryan18107/Cricket-World-Cup-23-Analysis/assets/156915129/41db81fd-6fcb-4816-b827-4877ad304344)
+
  ## Project Insight:
  1. Australia Won The World Cup 23.
  2. Virat Kohli was The Man Of The Tournament.
